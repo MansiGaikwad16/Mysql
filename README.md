@@ -14,6 +14,7 @@ public void create_database(Connection con)
 }
 
 
+
 public void insert(Connection con) 
 {
 	char ans;
